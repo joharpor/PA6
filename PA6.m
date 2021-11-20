@@ -38,5 +38,6 @@ visualizeBoundary(X, y, model);
 
 fprintf(['The minimal error = %f: with C = %f and sigma = %f\n' ...
 'Expected minimal error is 0.03\n'], minError, C, sigma);
+%test edit
 
 
